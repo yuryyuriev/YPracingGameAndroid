@@ -1,3 +1,1 @@
-# YPracingGameAndroid
-There is my first racing game. Unity+C#
-Hi there! I am Yury Pugachev! I like unity, js, c# and...
+Great simple Game! I used to C# and UNITY.
